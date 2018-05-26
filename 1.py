@@ -527,7 +527,7 @@ def getCalendar_all_day():
     global solar_day
     global solar_weekday
 
-    solar_year = 2021
+    solar_year = 2030
     solar_month = 1
     weekday_offset = 0 #1月1号星期几?
     index_day = 0
